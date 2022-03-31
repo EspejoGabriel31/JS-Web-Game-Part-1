@@ -28,7 +28,8 @@ newImage('assets/crate.png','150px','200px')
 newImage('assets/well.png','500px','425px')
 
 newItem('assets/sword.png','500px','405px')
-
+newItem('assets/sheild.png','165px','185px')
+newItem('assets/staff.png','600px','100px')
 /*let greenCharacter = document.createElement('img')
 greenCharacter.src = 'assets/green-character.gif'
 greenCharacter.style.position = 'fixed'

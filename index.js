@@ -15,7 +15,7 @@ function newItem(path, left, bottom){
     item.style.bottom = bottom
     document.body.append(item)
 
-    item.addEventListener('click', function(){
+    item.addEventListener('dblclick', function(){
         item.remove()
     })
 }
